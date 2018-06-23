@@ -1,6 +1,5 @@
-package com.tech.gahlot.network.UserList;
+package com.tech.gahlot.network.user_list;
 
-import com.tech.gahlot.UI.adapter.user.UserListItem;
 
 import java.util.List;
 

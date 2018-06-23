@@ -1,4 +1,4 @@
-package com.tech.gahlot.UI.adapter.user;
+package com.tech.gahlot.UI.adapter.user_item;
 
 import com.tech.gahlot.UI.adapter.BaseListItem;
 

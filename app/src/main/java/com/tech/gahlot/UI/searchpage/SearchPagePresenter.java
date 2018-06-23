@@ -1,7 +1,7 @@
 package com.tech.gahlot.UI.searchpage;
 
 import com.tech.gahlot.UI.adapter.BaseListItem;
-import com.tech.gahlot.UI.adapter.user.UserListItem;
+import com.tech.gahlot.UI.adapter.user_item.UserListItem;
 import com.tech.gahlot.network.user.User;
 
 import java.util.List;

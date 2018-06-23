@@ -1,6 +1,6 @@
 package com.tech.gahlot.network;
 
-import com.tech.gahlot.network.UserList.UserListResponse;
+import com.tech.gahlot.network.user_list.UserListResponse;
 import com.tech.gahlot.network.user.User;
 
 import io.reactivex.Observable;

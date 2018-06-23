@@ -1,4 +1,4 @@
-package com.tech.gahlot.UI.adapter.user;
+package com.tech.gahlot.UI.adapter.user_item;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
