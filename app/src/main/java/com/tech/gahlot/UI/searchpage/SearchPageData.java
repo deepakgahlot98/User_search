@@ -11,9 +11,6 @@ import io.reactivex.Observable;
 import io.reactivex.ObservableSource;
 import io.reactivex.functions.Function;
 
-/**
- * Created on 16/04/18.
- */
 
 public class SearchPageData implements SearchPageContract.Data {
 
